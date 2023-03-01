@@ -1,0 +1,11 @@
+--> To Install on Android
+1. To install android app on your device just install 'GitHub Clone.apk' file.
+
+--> To Install on linux
+2. To install linux app on your linux device
+	1. open linux_app folder and then open terminal from this folder.
+	2. now in terminal just run ./sample.
+	3. thats it your app will run on linux.
+	
+--> To view source code
+3. To view the source code open sample folder and open lib folder you will get access to all the source code of the app
